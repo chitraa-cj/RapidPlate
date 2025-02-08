@@ -35,8 +35,8 @@ streamlit run yolo_application.py
 .
 ├── yolo_application.py  # Main Streamlit app
 ├── requirements.txt     # Required dependencies
-├── models/              # Folder for trained YOLO models
-└── temp/                # Temporary storage for uploaded files
+├── cars-license-plate-yolov8      # Python Notebook
+└── demo.mp4, images.png                # Demo files
 ```
 
 ## Dependencies
